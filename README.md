@@ -37,17 +37,3 @@ $ npm run test:e2e
 # test coverage
 $ npm run test:cov
 ```
-
-## Redes Sociais
-
-[Site Aluizio Developer](https://aluiziodeveloper.com.br)
-
-[Perfil Udemy](https://www.udemy.com/user/jorge-aluizio-alves-de-souza/)
-
-[Cursos Gratuitos](https://letsgoahead.com.br/)
-
-[YouTube](https://www.youtube.com/jorgealuizio)
-
-[Servidor no Discord](https://discord.gg/3J87BMz5fD)
-
-[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
